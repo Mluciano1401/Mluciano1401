@@ -5,7 +5,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 
-### <div align="center">## 👋 Hi! I'm Maria Luciano and I'm a web developer from Santiago, Dominican Republic. I have a serious passion for UI effects, animations and creating intuitive, dynamic UX.
+### <div align="center"> 👋 Hi! I'm Maria Luciano and I'm a web developer from Santiago, Dominican Republic. I have a serious passion for UI effects, animations and creating intuitive, dynamic UX.
 I have been programming for about 1 year, during those years I have collaborated with talented people in the projects where I have participated as well as I have done a couple of personal projects.
 
 Here are some ideas to get you started:</div>  
@@ -86,12 +86,15 @@ Here are some ideas to get you started:</div>
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Mluciano1401&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Mluciano1401&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
+
+<br/>  
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mluciano1401&hide_border=true&layout=compact" align="left" />  
 
 <br/>  
-
+<br/>  
+<br/>  
 ## Dev Card
 <a href="https://app.daily.dev/mluciano"><img src="https://api.daily.dev/devcards/3f4f7af638c54c67845daffb8b52d771.png?r=yk0" width="400" alt="María del Carmen Luciano García's Dev Card"/></a>
 
