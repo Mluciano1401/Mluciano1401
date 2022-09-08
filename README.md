@@ -90,7 +90,8 @@ Here are some ideas to get you started:</div>
 
 <br/>  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mluciano1401&hide_border=true&layout=compact" align="left" />  
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mluciano1401&hide_border=true&layout=compact" align="center" />  </div>
 
 <br/>  
 
