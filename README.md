@@ -4,9 +4,8 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
-  
 
-### <div align="center">I'm a web developer from Santiago, Dominican Republic. I have a serious passion for UI effects, animations and creating intuitive, dynamic UX.
+### <div align="center">## 👋 Hi! I'm Maria Luciano and I'm a web developer from Santiago, Dominican Republic. I have a serious passion for UI effects, animations and creating intuitive, dynamic UX.
 I have been programming for about 1 year, during those years I have collaborated with talented people in the projects where I have participated as well as I have done a couple of personal projects.
 
 Here are some ideas to get you started:</div>  
@@ -59,11 +58,9 @@ Here are some ideas to get you started:</div>
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
+</td>
+</tr>
+</table>  
 
 <br/>  
 
@@ -95,18 +92,25 @@ Here are some ideas to get you started:</div>
 
 <br/>  
 
-  
+## Dev Card
+<a href="https://app.daily.dev/mluciano"><img src="https://api.daily.dev/devcards/3f4f7af638c54c67845daffb8b52d771.png?r=yk0" width="400" alt="María del Carmen Luciano García's Dev Card"/></a>
+
 
 <br/>  
 
+## Followers
+<!-- FOLLOWER-LIST:START -->
+
+<!-- FOLLOWER-LIST:END -->
+<br/>  
+
+<br />
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Mluciano1401&&style=flat-square" align="center" />
 </div>  
   
 
 <br/>  
-
-<a href="https://app.daily.dev/mluciano"><img src="https://api.daily.dev/devcards/3f4f7af638c54c67845daffb8b52d771.png?r=yk0" width="400" alt="María del Carmen Luciano García's Dev Card"/></a>
 
 <br />
 
