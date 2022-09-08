@@ -1,0 +1,19 @@
+{
+  "name": "mluciano1401",
+  "version": "1.0.0",
+  "description": "github profile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mluciano1401/Mluciano1401.git"
+  },
+  "author": "Mluciano1401",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mluciano1401/Mluciano1401/issues"
+  },
+  "homepage": "https://github.com/Mluciano1401/Mluciano1401#readme"
+}
