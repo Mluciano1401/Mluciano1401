@@ -93,8 +93,11 @@ Here are some ideas to get you started:</div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mluciano1401&hide_border=true&layout=compact" align="left" />  
 
 <br/>  
+
 <br/>  
+
 <br/>  
+
 ## Dev Card
 <a href="https://app.daily.dev/mluciano"><img src="https://api.daily.dev/devcards/3f4f7af638c54c67845daffb8b52d771.png?r=yk0" width="400" alt="María del Carmen Luciano García's Dev Card"/></a>
 
@@ -102,9 +105,11 @@ Here are some ideas to get you started:</div>
 <br/>  
 
 ## Followers
+
 <!-- FOLLOWER-LIST:START -->
 
 <!-- FOLLOWER-LIST:END -->
+
 <br/>  
 
 <br />
