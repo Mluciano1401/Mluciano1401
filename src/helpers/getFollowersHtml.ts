@@ -15,7 +15,7 @@ export const genFollowersHtml = (
       }
   
       html += `
-  <td align="center">
+    <td align="center">
        <a href="https://github.com/${name}">
          <img src="${img}" width="100px;" alt="${name}"/>
        </a>
