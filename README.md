@@ -11,7 +11,7 @@ I have been programming for about 1 year, during those years I have collaborated
 Here are some ideas to get you started:</div>  
   
 
-- 🔭 I’m currently working on Intellisys D. Corp.  
+- 🔭 I worked for a year in Intellisys D. Corp.  
   
 
 - 🌱 I’m currently learning full stack technologies.  
