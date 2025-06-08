@@ -6,13 +6,13 @@
 </div>  
 
 ### <div align="center"> 👋 Hi! I'm Maria Luciano and I'm a web developer from Santiago, Dominican Republic. I have a serious passion for UI effects, animations and creating intuitive, dynamic UX.
-I have been programming for about 1 year, during those years I have collaborated with talented people in the projects where I have participated as well as I have done a couple of personal projects.
+I have been programming for about 3 years, during those years I have collaborated with talented people in the projects where I have participated as well as I have done a couple of personal projects.
 
 Here are some ideas to get you started:</div>  
   
 
-- 🔭 I worked for a year in Intellisys D. Corp.  
-  
+- 🔭 I worked for a year and ten months in Intellisys D. Corp.  
+- 🔭 Currently, I work in Advansys SRL. 
 
 - 🌱 I’m currently learning full stack technologies.  
   
